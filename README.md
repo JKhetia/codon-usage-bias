@@ -30,12 +30,12 @@ Codon bias affects **translation efficiency** and **gene expression**. If you wa
 
 ## Results (example files)
 - Figures  
-  - `figures/codon_usage/mt_top_codons.png`  
-  - `figures/codon_usage/ec_top_codons.png`  
-  - `figures/codon_usage/compare_scatter.png`  
+  - `mt_top_codons.png`  
+  - `ec_top_codons.png`  
+  - `compare_scatter.png`  
 - Tables  
-  - `results/codon_usage/mt_counts.csv`, `results/codon_usage/mt_freqs.csv`  
-  - `results/codon_usage/ec_counts.csv`, `results/codon_usage/ec_freqs.csv`
+  - `mt_counts.csv`, `mt_freqs.csv`  
+  - `ec_counts.csv`, `ec_freqs.csv`
 
 ---
 
